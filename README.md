@@ -1,2 +1,2 @@
 # site-flex-responsive
-Projeto de um site responsivo utilizando o flex
+Projeto de um site responsivo utilizando Flex.
